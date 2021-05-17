@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c28fb157-c891-4677-9903-c63b0fbaf0ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Banking-Application-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.idea/dictionaries/Arshu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/User.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/Userdata.sqbpro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/release/app-release.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/release/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/androidTest/java/com/example/bankingapp/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/CustomeAdapter_history.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/CustomeAdapter_sendtouser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/CustomeAdapter_userlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/DatabaseHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/ViewHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/history_list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/sendtouser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/splash_activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/user_data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/user_list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/anim/bottom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/anim/myanim.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/arrow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/bank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/bank_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/images.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/inter_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/phone.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/rounded_button.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/search.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/transfer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/layout/activity_sendtouser.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/layout/activity_show_allusers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/layout/activity_transfer_history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/layout/activity_transfer_money.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/layout/activity_user_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/layout/splash_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/layout/transfer_history_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/layout/userslist.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/menu/menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/menu/menu_history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/values/ids.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/test/java/com/example/bankingapp/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-Application-master/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sckag2gFWtEGpzZDb0LePUG8zu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Gradle.D:/Banking-Application-master/Banking-Application-master/build.gradle (1)">
+    <configuration name="D:/Banking-Application-master/Banking-Application-master/build.gradle (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Banking-Application-master/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="D:/Banking-Application-master/Banking-Application-master/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Banking-Application-master/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="gradlew" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/Banking-Application-master/gradlew" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/Banking-Application-master" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.D:/Banking-Application-master/Banking-Application-master/build.gradle (1)" />
+        <item itemvalue="Gradle.D:/Banking-Application-master/Banking-Application-master/build.gradle" />
+        <item itemvalue="Shell Script.gradlew" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c28fb157-c891-4677-9903-c63b0fbaf0ac" name="Default Changelist" comment="" />
+      <created>1621179329043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621179329043</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621179384350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1621179384350" />
+    <state x="532" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621181042647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="532" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1621181042647" />
+    <state x="100" y="100" width="1336" height="624" key="AVDManager" timestamp="1621184883958">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="100" width="1336" height="624" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1621184883958" />
+    <state x="427" y="158" key="AndroidProcessChooserDialog" timestamp="1621181103234">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="427" y="158" key="AndroidProcessChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1621181103234" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1621180974347">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621180974347" />
+    <state width="1476" height="207" key="GridCell.Tab.0.bottom" timestamp="1621184883607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621184883607" />
+    <state width="1476" height="207" key="GridCell.Tab.0.center" timestamp="1621184883607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621184883607" />
+    <state width="1476" height="207" key="GridCell.Tab.0.left" timestamp="1621184883606">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621184883606" />
+    <state width="1476" height="207" key="GridCell.Tab.0.right" timestamp="1621184883607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621184883607" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1621184321479">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621184321479" />
+    <state x="426" y="189" key="run.anything.popup" timestamp="1621181622071">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1621181622071" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1621180452773">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1621180452773" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Banking_Application_master$D__Banking_Application_master_Banking_Application_master_build_gradle.ic" NAME="$PROJECT_DIR$/Banking-Application-master/build.gradle Coverage Results" MODIFIED="1621181094240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
