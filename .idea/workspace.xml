@@ -102,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621240079090</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bank application">
+      <created>1621240905257</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621240905257</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -110,10 +117,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="bank application" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="654" y="275" key="#Notifications" timestamp="1621240728147">
+    <state x="654" y="275" key="#Notifications" timestamp="1621241026147">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="654" y="275" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1621240728147" />
+    <state x="654" y="275" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1621241026147" />
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621179384350">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -130,10 +137,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="427" y="158" key="AndroidProcessChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1621181103234" />
-    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1621240075159">
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1621240904322">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1621240075159" />
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1621240904322" />
     <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1621180974347">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -158,10 +165,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621184321479" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1621240654476">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1621241007525">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1621240654476" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1621241007525" />
     <state x="426" y="189" key="run.anything.popup" timestamp="1621181622071">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
