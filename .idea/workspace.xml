@@ -2,94 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c28fb157-c891-4677-9903-c63b0fbaf0ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Banking-Application-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.idea/dictionaries/Arshu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/User.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/Userdata.sqbpro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/release/app-release.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/release/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/androidTest/java/com/example/bankingapp/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/CustomeAdapter_history.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/CustomeAdapter_sendtouser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/CustomeAdapter_userlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/DatabaseHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/ViewHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/history_list.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/sendtouser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/splash_activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/user_data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/java/com/example/bankingapp/user_list.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/anim/bottom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/anim/myanim.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/arrow.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/bank.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/bank_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/history.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/images.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/inter_logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/phone.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/rounded_button.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/search.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/transfer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/drawable/user.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/layout/activity_sendtouser.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/layout/activity_show_allusers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/layout/activity_transfer_history.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/layout/activity_transfer_money.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/layout/activity_user_data.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/layout/splash_activity.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/layout/transfer_history_list.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/layout/userslist.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/menu/menu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/menu/menu_history.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/values/ids.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/app/src/test/java/com/example/bankingapp/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking-Application-master/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,9 +95,25 @@
       <option name="presentableId" value="Default" />
       <updated>1621179329043</updated>
     </task>
+    <task id="LOCAL-00001" summary="bank application">
+      <created>1621240079090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621240079090</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bank application" />
+    <option name="LAST_COMMIT_MESSAGE" value="bank application" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="654" y="275" key="#Notifications" timestamp="1621240728147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="654" y="275" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1621240728147" />
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621179384350">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -201,6 +130,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="427" y="158" key="AndroidProcessChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1621181103234" />
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1621240075159">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1621240075159" />
     <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1621180974347">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -225,6 +158,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621184321479" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1621240654476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1621240654476" />
     <state x="426" y="189" key="run.anything.popup" timestamp="1621181622071">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
